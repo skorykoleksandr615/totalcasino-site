@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Total Casino">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a2a5c"/>
+      <stop offset="100%" stop-color="#001a3d"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#g)"/>
+  <g fill="none" stroke="#ffcc33" stroke-width="10">
+    <line x1="90" y1="170" x2="200" y2="170"/>
+    <line x1="312" y1="170" x2="422" y2="170"/>
+    <line x1="90" y1="360" x2="422" y2="360"/>
+  </g>
+  <g fill="#ffcc33">
+    <polygon points="256,118 268,148 300,148 274,168 284,198 256,178 228,198 238,168 212,148 244,148"/>
+    <polygon points="190,132 198,150 218,150 202,162 208,180 190,168 172,180 178,162 162,150 182,150"/>
+    <polygon points="322,132 330,150 350,150 334,162 340,180 322,168 304,180 310,162 294,150 314,150"/>
+  </g>
+  <text x="256" y="300" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="54" font-weight="800" fill="#ffcc33" stroke="#001a3d" stroke-width="6" paint-order="stroke">Total Casino</text>
+</svg>
