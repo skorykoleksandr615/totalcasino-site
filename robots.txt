@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://totalcasino.club/sitemap-tc.xml
 Sitemap: https://totalcasino.club/sitemap.xml
+
